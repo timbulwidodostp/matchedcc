@@ -1,6 +1,8 @@
 # matchedcc
 Matched case control analysis Use mcc (matchedcc) With (In) R Software
 
+https://www.youtube.com/watch?v=8xAhQZbWmiA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
